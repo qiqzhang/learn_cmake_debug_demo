@@ -3,11 +3,9 @@
 
 using namespace std;
 
-Hello::Hello()
-{
+Hello::Hello(){
   cout << "Hello vscode" << endl;
 }
 
-Hello ::~Hello()
-{
+Hello ::~Hello(){
 }

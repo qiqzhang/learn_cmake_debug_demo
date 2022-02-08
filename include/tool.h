@@ -1,8 +1,7 @@
 #ifndef TOOL_H
 #define TOOL_H
 
-class Tool
-{
+class Tool{
 private:
   /* data */
 public:
